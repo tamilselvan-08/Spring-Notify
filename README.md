@@ -87,7 +87,7 @@ This decoupled design ensures:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/spring-notify.git
+git clone https://github.com/tamilselvan-08/Spring-Notify
 cd spring-notify
 ```
 
@@ -99,7 +99,7 @@ docker-compose up
 
 ### 3️⃣ Access APIs
 
-* Swagger UI: `http://localhost:8080/swagger-ui.html`
+* Spring Notify UI: `http://localhost:8080/spring-notify.html`
 
 ---
 
