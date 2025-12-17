@@ -1,0 +1,12 @@
+package com.tamilselvan.springnotify;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringNotifyApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringNotifyApplication.class, args);
+    }
+}
